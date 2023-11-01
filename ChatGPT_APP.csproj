@@ -26,9 +26,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Gif\" />
-    <Folder Include="InputFiles\" />
-    <Folder Include="OutputFiles\" />
+    <Folder Include="SistemFiles\Gif\" />
+    <Folder Include="SistemFiles\InputFiles\" />
+    <Folder Include="SistemFiles\OutputFiles\" />
     <Folder Include="FFmpeg\" />
     <Folder Include="Новая папка\" />
   </ItemGroup>
