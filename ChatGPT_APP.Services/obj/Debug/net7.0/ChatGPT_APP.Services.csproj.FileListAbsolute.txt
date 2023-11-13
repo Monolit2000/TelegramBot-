@@ -1,0 +1,15 @@
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Services\bin\Debug\net7.0\ChatGPT_APP.Services.deps.json
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Services\bin\Debug\net7.0\ChatGPT_APP.Services.dll
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Services\bin\Debug\net7.0\ChatGPT_APP.Services.pdb
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Services\bin\Debug\net7.0\ChatGPT_APP.Models.dll
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Services\bin\Debug\net7.0\ChatGPT_APP.Models.pdb
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Services\obj\Debug\net7.0\ChatGPT_APP.Services.csproj.AssemblyReference.cache
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Services\obj\Debug\net7.0\ChatGPT_APP.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Services\obj\Debug\net7.0\ChatGPT_APP.Services.AssemblyInfoInputs.cache
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Services\obj\Debug\net7.0\ChatGPT_APP.Services.AssemblyInfo.cs
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Services\obj\Debug\net7.0\ChatGPT_APP.Services.csproj.CoreCompileInputs.cache
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Services\obj\Debug\net7.0\ChatGPT_APP.Services.csproj.CopyComplete
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Services\obj\Debug\net7.0\ChatGPT_APP.Services.dll
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Services\obj\Debug\net7.0\refint\ChatGPT_APP.Services.dll
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Services\obj\Debug\net7.0\ChatGPT_APP.Services.pdb
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Services\obj\Debug\net7.0\ref\ChatGPT_APP.Services.dll

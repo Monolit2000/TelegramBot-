@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Новая папка1", "Новая папка1", "{A223CFF6-C91F-4DC9-9DF8-2D9A4032F018}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatGPT_APP.Services", "ChatGPT_APP.Services\ChatGPT_APP.Services.csproj", "{100C9771-CB65-48BF-BBA1-5086AFA03F0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatGPT_APP.Models", "ChatGPT_APP.Models\ChatGPT_APP.Models.csproj", "{9948BAA7-321B-4B9E-92BD-63E5CDBFF473}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatGPT_APP.Application", "ChatGPT_APP.Application\ChatGPT_APP.Application.csproj", "{79CD154A-FDC9-4C48-A40D-E0C9776C7635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGPT_APP.Test_Conversion", "ChatGPT_APP.Test_Conversation\ChatGPT_APP.Test_Conversion.csproj", "{24C0D0C4-2550-467D-97DF-D046F1E40283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{100C9771-CB65-48BF-BBA1-5086AFA03F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100C9771-CB65-48BF-BBA1-5086AFA03F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100C9771-CB65-48BF-BBA1-5086AFA03F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100C9771-CB65-48BF-BBA1-5086AFA03F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9948BAA7-321B-4B9E-92BD-63E5CDBFF473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9948BAA7-321B-4B9E-92BD-63E5CDBFF473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9948BAA7-321B-4B9E-92BD-63E5CDBFF473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9948BAA7-321B-4B9E-92BD-63E5CDBFF473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79CD154A-FDC9-4C48-A40D-E0C9776C7635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79CD154A-FDC9-4C48-A40D-E0C9776C7635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79CD154A-FDC9-4C48-A40D-E0C9776C7635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79CD154A-FDC9-4C48-A40D-E0C9776C7635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24C0D0C4-2550-467D-97DF-D046F1E40283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C0D0C4-2550-467D-97DF-D046F1E40283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C0D0C4-2550-467D-97DF-D046F1E40283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C0D0C4-2550-467D-97DF-D046F1E40283}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {876E1878-805E-49C7-9F92-8C4FBE560EB5}
+	EndGlobalSection
+EndGlobal

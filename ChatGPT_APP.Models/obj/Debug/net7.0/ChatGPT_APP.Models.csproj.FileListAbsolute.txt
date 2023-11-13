@@ -1,0 +1,11 @@
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Models\bin\Debug\net7.0\ChatGPT_APP.Models.deps.json
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Models\bin\Debug\net7.0\ChatGPT_APP.Models.dll
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Models\bin\Debug\net7.0\ChatGPT_APP.Models.pdb
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Models\obj\Debug\net7.0\ChatGPT_APP.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Models\obj\Debug\net7.0\ChatGPT_APP.Models.AssemblyInfoInputs.cache
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Models\obj\Debug\net7.0\ChatGPT_APP.Models.AssemblyInfo.cs
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Models\obj\Debug\net7.0\ChatGPT_APP.Models.csproj.CoreCompileInputs.cache
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Models\obj\Debug\net7.0\ChatGPT_APP.Models.dll
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Models\obj\Debug\net7.0\refint\ChatGPT_APP.Models.dll
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Models\obj\Debug\net7.0\ChatGPT_APP.Models.pdb
+E:\C#_WORK\ChatGPT_APP\ChatGPT_APP.Models\obj\Debug\net7.0\ref\ChatGPT_APP.Models.dll
